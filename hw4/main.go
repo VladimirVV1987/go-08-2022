@@ -32,7 +32,9 @@ func main() {
 	   c := 5
 	   d := 11
 	   e := -1
-	   f := 0 */
+	   f := 0
+
+	*/
 	arr := []int{a, b, c, d, e, f}
 	InsertionSort(arr)
 	fmt.Println(arr)
